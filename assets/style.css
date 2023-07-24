@@ -27,7 +27,6 @@ body {
 .menu {
     margin: auto;
     background-color: #33083d;
-    box-sizing: border-box;
     position: fixed;
     display: flex;
     justify-content: space-between;
